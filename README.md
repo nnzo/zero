@@ -1,11 +1,6 @@
-# Onyx Discord Bot
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-![GitHub top language](https://img.shields.io/github/languages/top/badges/shields.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)
-![Powered by NodeJS](https://img.shields.io/badge/powered%20by-nodejs-blue.svg)
+# Zero Discord Bot
 
-Onyx is a multi-purpose media and utility bot, containing over 50 commands to help you bring the best of the web to your server.
+Zero is a multi-purpose media and utility bot, containing over 50 commands to help you bring the best of the web to your server.
 
 Watch YouTube videos, search for GIFs and stickers, get answers to everything, and more, with Onyx. This bot is powered by Node.JS, and coded using
 the Discord.JS library.
@@ -13,7 +8,7 @@ the Discord.JS library.
 Make electronic music, memes, edit images, get answers to everything, and more, with Onyx, a Discord bot powered by Node.JS, and coded using
 the Discord.JS library.
 
-Onyx has over fifty commands, including those for:
+Zero has over fifty commands, including those for:
 - meme generation
 - gif and sticker searching
 - searching YouTube
@@ -21,9 +16,6 @@ Onyx has over fifty commands, including those for:
 - fetching info/live imagery from NASA
 - interacting with IBM's Watson API 
 - getting information on any topic
-
-## Documentation
-[View documentation relating to Onyx's commands and usage here.](https://silvia-odwyer.github.io/Onyx)
 
 ## Get Stickers From Giphy!
 ![Get Stickers With This Command](https://github.com/silvia-odwyer/NodeJS-Discord-Bot/blob/master/media/sticker_examples.gif "Yes, you can search GIPHY for stickers!")
@@ -46,7 +38,7 @@ A complete list of currently working commands can be found below.
 - Check how popular your name is with `-name [your name]`
 
 ## Invite To Your Server
-[Just click here to invite Onyx to your server!](https://discordapp.com/oauth2/authorize?&client_id=444948120573313024&scope=bot&permissions=0)
+[Just click here to invite Zero to your server!](https://discordapp.com/oauth2/authorize?&client_id=444948120573313024&scope=bot&permissions=0)
 
 ## Test Onyx Out In This Support Server
 If you want to test Onyx out before adding her to your server, [just join this server](https://discord.gg/cSWHaEK), and leave when you want.
