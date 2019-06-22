@@ -1,35 +1,26 @@
-# Onyx Discord Bot
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-![GitHub top language](https://img.shields.io/github/languages/top/badges/shields.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)
-![Powered by NodeJS](https://img.shields.io/badge/powered%20by-nodejs-blue.svg)
+# Onyx Discord Bot Documentation
 
 Onyx is a multi-purpose media and utility bot, containing over 50 commands to help you bring the best of the web to your server.
 
-Watch YouTube videos, search for GIFs and stickers, get answers to everything, and more, with Onyx. This bot is powered by Node.JS, and coded using
-the Discord.JS library.
-
-Make electronic music, memes, edit images, get answers to everything, and more, with Onyx, a Discord bot powered by Node.JS, and coded using
+Make memes, send electronic cards, get answers to everything, and more, with Onyx. This bot is powered by Node.JS, and coded using
 the Discord.JS library.
 
 Onyx has over fifty commands, including those for:
+
 - meme generation
+
 - gif and sticker searching
+
 - searching YouTube
+
 - music production
+
 - fetching info/live imagery from NASA
+
 - interacting with IBM's Watson API 
+
 - getting information on any topic
 
-## Documentation
-[View documentation relating to Onyx's commands and usage here.](https://silvia-odwyer.github.io/Onyx)
-
-## Get Stickers From Giphy!
-![Get Stickers With This Command](https://github.com/silvia-odwyer/NodeJS-Discord-Bot/blob/master/media/sticker_examples.gif "Yes, you can search GIPHY for stickers!")
-
-## Make Memes!
-![Make Memes With This Command](https://github.com/silvia-odwyer/NodeJS-Discord-Bot/blob/master/media/meme_example.gif "Yes, you can even make memes!")
 
 A complete list of currently working commands can be found below.
 
@@ -52,35 +43,8 @@ A complete list of currently working commands can be found below.
 If you want to test Onyx out before adding her to your server, [just join this server](https://discord.gg/cSWHaEK), and leave when you want.
 Onyx runs 24/7, so she'll always be online. :D
 
-## Onyx In Action
-### Ask Onyx Anything You Like!
-![Ask Onyx Anything You Like!](https://github.com/silvia-odwyer/NodeJS-Discord-Bot/blob/master/ask_example.gif "Ask Onyx Anything You Like!")
-
-![Ask Onyx Anything You Like! (Yes, even questions like this!)](https://github.com/silvia-odwyer/NodeJS-Discord-Bot/blob/master/media/ask2_example.gif "Ask Onyx Anything You Like!  (Yes, even questions like this!)")
-
-
-### Get Public Domain Photos From Unsplash
-![Get Public Domain Photos From Unsplash](https://github.com/silvia-odwyer/NodeJS-Discord-Bot/blob/master/media/unsplash_example.gif "Get Public Domain Photos From Unsplash")
-
-### Generate QR Codes
-![Generate QR Codes](https://github.com/silvia-odwyer/NodeJS-Discord-Bot/blob/master/media/qr_example.gif "Generate QR Codes")
-
-## Commands
+# Commands
 NB: Prepend a hyphen before any of the commands below.
-
-### Make Electronic Music
-You can make your own electronic music just by typing commands, and connecting to a Voice Channel.
-Onyx comes with a series of built-in, royalty-free samples, which you can play through a Voice Channel. 
-
-Right now, you can play samples, and overlay/combine samples together.
-
-### Music Production Commands
-
-| Command       | Description   | Examples  |
-| ------------- |:----------------------------------------------------------------------------------------------:| ---------: |
-| music_cmds         | Get a list of all samples available to play. (Make sure you've joined a voice channel first.)      |   `-music_cmds`  |
-| futurebass           | Futurebass sample. To play this sample, just type the command.                 |   `-futurebass`   |
-| fx    | The `fx` command overlays two samples over one another. In the example to the right, fx combines the two samples `futurebass` and `build` together, overlaying their audio upon one another.                       |  `-fx futurebass build`    |
 
 ### Media Commands
 | Command       | Description   | Examples  |
@@ -119,8 +83,6 @@ Right now, you can play samples, and overlay/combine samples together.
 | name    |  Find out how popular your first name is, plus get stats on it.                                  |   `-name Markus`   |
 | ask    |   Ask Onyx anything, and she'll provide an answer from Wolfram Alpha, an information engine.     |   `-ask is there life on Mars`   |
 
-![Get Emoji](https://github.com/silvia-odwyer/NodeJS-Discord-Bot/blob/master/media/getemoji_example.gif "Get emoji related to your search term!")
-
 <!-- | slowblur      | Add a gentler blur effect to an image. |    |
 | extremeblur   | Add a stronger blur effect to an image.|     |
 | dotify        |Add this cool effect to an image.|      |
@@ -141,8 +103,6 @@ Right now, you can play samples, and overlay/combine samples together.
 |cats     | Get a load of cuuuute cat ascii faces                        |  `-cats`   |
 |asciiFaces     | Get a load of cuuuute ascii faces ^^                     |  `-asciiFaces`   |
 |poll     | Create a poll. Just append a question onto your command, and the reactions will symbolise votes.                   |  `-poll Do you want more text channels?`   |
-
-![Ask Onyx for Acronym Meanings](https://github.com/silvia-odwyer/NodeJS-Discord-Bot/blob/master/media/acronym_example2.gif "Ask Onyx for Acronym Meanings")
 
 ### Message Formatting Commands
 | Command       | Description   | Examples  |
@@ -165,7 +125,7 @@ Right now, you can play samples, and overlay/combine samples together.
 | wave          | Wave at another user! |   `-wave @Silvia923`   |
 | poke          | Poke another user! | `-poke @somebody`     |
 | gift          | Send a gift to another user! | `-gift @Silvia923`|
-| card          | Send a card to another user, with your message attached| `-card @Silvia923 Happy Birthday!`|
+| setPresence   | Change the bot's playing/presence message to another random message (not user-defined).|     | -->
 
 ### Meta Commands
 | Command       | Description   | Examples  |
@@ -175,19 +135,3 @@ Right now, you can play samples, and overlay/combine samples together.
 |creator      | Get info. on who coded Onyx :eyes:          |  `-creator`   |
 |info      | Get info. about Onyx, such as what language she's coded in, and more.    |  `-info`   |
 |invite      | Get Onyx's invite link, so that she can be invited to other servers.   |  `-invite`   |
-
-
-## Features On The Way
-I am applying for API keys for the following APIs, so that's why their development is slightly delayed.
-- Checking if two users should go out together, using IBM Watson's analysis of the two users' messages, and thus deducing their personalities.
-- Movie DB search and retrieval for movies and their ratings, actors, etc.,
-- Spotify: Provides meta data on various songs.
-- Google Knowledge Graph integration
-- Basic moderation commands, including kicking users, detecting spam, etc.,
-
-## Invite To Your Server (In case you didn't see above ^^)
-[Just click here to invite Onyx to your server!](https://discordapp.com/oauth2/authorize?&client_id=444948120573313024&scope=bot&permissions=0)
-
-## Test Onyx Out In This Support Server
-If you want to test Onyx out before adding her to your server, [just join this server](https://discord.gg/cSWHaEK), and leave when you want.
-Onyx runs 24/7, so she'll always be online. :D
