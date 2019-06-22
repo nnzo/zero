@@ -2,10 +2,10 @@
 
 Zero is a multi-purpose media and utility bot, containing over 50 commands to help you bring the best of the web to your server.
 
-Watch YouTube videos, search for GIFs and stickers, get answers to everything, and more, with Onyx. This bot is powered by Node.JS, and coded using
+Watch YouTube videos, search for GIFs and stickers, get answers to everything, and more, with Zero. This bot is powered by Node.JS, and coded using
 the Discord.JS library.
 
-Make electronic music, memes, edit images, get answers to everything, and more, with Onyx, a Discord bot powered by Node.JS, and coded using
+Make electronic music, memes, edit images, get answers to everything, and more, with Zero, a Discord bot powered by Node.JS, and coded using
 the Discord.JS library.
 
 Zero has over fifty commands, including those for:
@@ -40,15 +40,15 @@ A complete list of currently working commands can be found below.
 ## Invite To Your Server
 [Just click here to invite Zero to your server!](https://discordapp.com/oauth2/authorize?&client_id=444948120573313024&scope=bot&permissions=0)
 
-## Test Onyx Out In This Support Server
-If you want to test Onyx out before adding her to your server, [just join this server](https://discord.gg/cSWHaEK), and leave when you want.
-Onyx runs 24/7, so she'll always be online. :D
+## Test Zero Out In This Support Server
+If you want to test Zero out before adding her to your server, [just join this server](https://discord.gg/cSWHaEK), and leave when you want.
+Zero runs 24/7, so she'll always be online. :D
 
-## Onyx In Action
-### Ask Onyx Anything You Like!
-![Ask Onyx Anything You Like!](https://github.com/silvia-odwyer/NodeJS-Discord-Bot/blob/master/ask_example.gif "Ask Onyx Anything You Like!")
+## Zero In Action
+### Ask Zero Anything You Like!
+![Ask Zero Anything You Like!](https://github.com/silvia-odwyer/NodeJS-Discord-Bot/blob/master/ask_example.gif "Ask Zero Anything You Like!")
 
-![Ask Onyx Anything You Like! (Yes, even questions like this!)](https://github.com/silvia-odwyer/NodeJS-Discord-Bot/blob/master/media/ask2_example.gif "Ask Onyx Anything You Like!  (Yes, even questions like this!)")
+![Ask Zero Anything You Like! (Yes, even questions like this!)](https://github.com/silvia-odwyer/NodeJS-Discord-Bot/blob/master/media/ask2_example.gif "Ask Zero Anything You Like!  (Yes, even questions like this!)")
 
 
 ### Get Public Domain Photos From Unsplash
@@ -62,7 +62,7 @@ NB: Prepend a hyphen before any of the commands below.
 
 ### Make Electronic Music
 You can make your own electronic music just by typing commands, and connecting to a Voice Channel.
-Onyx comes with a series of built-in, royalty-free samples, which you can play through a Voice Channel. 
+Zero comes with a series of built-in, royalty-free samples, which you can play through a Voice Channel.
 
 Right now, you can play samples, and overlay/combine samples together.
 
@@ -109,7 +109,7 @@ Right now, you can play samples, and overlay/combine samples together.
 | population    | Get the total number of humans on Earth right now.                                               |   `-population`   |
 | rhyme    |  Get words that rhyme with a word of your choice.                                  |   `-rhyme red`   |
 | name    |  Find out how popular your first name is, plus get stats on it.                                  |   `-name Markus`   |
-| ask    |   Ask Onyx anything, and she'll provide an answer from Wolfram Alpha, an information engine.     |   `-ask is there life on Mars`   |
+| ask    |   Ask Zero anything, and she'll provide an answer from Wolfram Alpha, an information engine.     |   `-ask is there life on Mars`   |
 
 ![Get Emoji](https://github.com/silvia-odwyer/NodeJS-Discord-Bot/blob/master/media/getemoji_example.gif "Get emoji related to your search term!")
 
@@ -134,7 +134,7 @@ Right now, you can play samples, and overlay/combine samples together.
 |asciiFaces     | Get a load of cuuuute ascii faces ^^                     |  `-asciiFaces`   |
 |poll     | Create a poll. Just append a question onto your command, and the reactions will symbolise votes.                   |  `-poll Do you want more text channels?`   |
 
-![Ask Onyx for Acronym Meanings](https://github.com/silvia-odwyer/NodeJS-Discord-Bot/blob/master/media/acronym_example2.gif "Ask Onyx for Acronym Meanings")
+![Ask Zero for Acronym Meanings](https://github.com/silvia-odwyer/NodeJS-Discord-Bot/blob/master/media/acronym_example2.gif "Ask Zero for Acronym Meanings")
 
 ### Message Formatting Commands
 | Command       | Description   | Examples  |
@@ -164,9 +164,9 @@ Right now, you can play samples, and overlay/combine samples together.
 | ------------- |:----------------------------------------------------------------------------------------------:| --------- |
 | server            | Get server stats, such as member count, when the server was created, and more...  |  `-server`|
 | idea           |Submit an idea for a new bot feature.               |  `-idea New image filters please! Would love to see some sepia filters :eyes:`|
-|creator      | Get info. on who coded Onyx :eyes:          |  `-creator`   |
-|info      | Get info. about Onyx, such as what language she's coded in, and more.    |  `-info`   |
-|invite      | Get Onyx's invite link, so that she can be invited to other servers.   |  `-invite`   |
+|creator      | Get info. on who coded Zero :eyes:          |  `-creator`   |
+|info      | Get info. about Zero, such as what language she's coded in, and more.    |  `-info`   |
+|invite      | Get Zero's invite link, so that she can be invited to other servers.   |  `-invite`   |
 
 
 ## Features On The Way
@@ -178,8 +178,8 @@ I am applying for API keys for the following APIs, so that's why their developme
 - Basic moderation commands, including kicking users, detecting spam, etc.,
 
 ## Invite To Your Server (In case you didn't see above ^^)
-[Just click here to invite Onyx to your server!](https://discordapp.com/oauth2/authorize?&client_id=444948120573313024&scope=bot&permissions=0)
+[Just click here to invite Zero to your server!](https://discordapp.com/oauth2/authorize?&client_id=444948120573313024&scope=bot&permissions=0)
 
-## Test Onyx Out In This Support Server
-If you want to test Onyx out before adding her to your server, [just join this server](https://discord.gg/cSWHaEK), and leave when you want.
-Onyx runs 24/7, so she'll always be online. :D
+## Test Zero Out In This Support Server
+If you want to test Zero out before adding her to your server, [just join this server](https://discord.gg/cSWHaEK), and leave when you want.
+Zero runs 24/7, so she'll always be online. :D
